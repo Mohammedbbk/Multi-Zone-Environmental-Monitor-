@@ -1,0 +1,21 @@
+# PlatformIO build files
+.pio
+
+# VSCode settings and database configs
+.vscode/
+
+# Environment files and credentials
+.env
+src/credentials.h
+
+# Supabase local config
+supabase/config.toml
+
+# Deno cache
+denocache/
+
+# Logs
+*.log
+
+# Other
+.DS_Store
