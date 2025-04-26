@@ -114,11 +114,3 @@ Create `src/credentials.h` for your Wi-Fi and Supabase keys (also ignored by Git
   platformio device monitor
   ```
 - **Supabase Logs:** View function invocations and errors in the Supabase dashboard.
-
-## Gitignore
-
-This project's `.gitignore` excludes local build artefacts, environment files, and secret headers. See [`.gitignore`](./.gitignore) for details.
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details. 
